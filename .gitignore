@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Local scratch (never publish)
+.temp/
